@@ -43,3 +43,7 @@ footer i {
 header i {
   font-size: 1.5rem;
 }
+
+.profile-pic {
+  width: 16rem;
+}
