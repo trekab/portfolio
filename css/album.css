@@ -52,3 +52,7 @@ header i {
   font-weight: bolder;
   font-size: 1.5rem;
 }
+
+.card-text, .btn-group a {
+  font-weight: bold;
+}
