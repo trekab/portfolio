@@ -54,6 +54,6 @@ header i {
   text-shadow: 2px 2px gray;
 }
 
-.card-text, .btn-group a {
+.card-text, .btn-group a, .lead {
   font-weight: bold;
 }
