@@ -44,8 +44,9 @@ header i {
   font-size: 1.5rem;
 }
 
-.profile-pic {
+.profile-pic img {
   width: 16rem;
+  height: 16rem;
 }
 
 .welcome-msg {
