@@ -45,11 +45,10 @@ header i {
 }
 
 .profile-pic {
-  background-image: url(../img/Trekab.png);
+  background-image: url(../img/trekab.png);
   background-size: 100%;
   width: 16rem;
   height: 16rem;
-  border-radius: 50%;
 }
 
 .welcome-msg {
