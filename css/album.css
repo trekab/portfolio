@@ -22,8 +22,9 @@ header i {
 .profile-pic {
   background-image: url(../img/trekab.png);
   background-size: 100%;
-  width: 16rem;
-  height: 16rem;
+  background-repeat: no-repeat;
+  width: 12rem;
+  height: 12rem;
 }
 
 .welcome-msg {
