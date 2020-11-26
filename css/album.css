@@ -19,6 +19,10 @@ header i {
   font-size: 1.5rem;
 }
 
+.my-icon {
+  height: 1.25rem;
+}
+
 .profile-pic {
   background-image: url(../img/trekab.png);
   background-size: 100%;
