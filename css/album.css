@@ -50,7 +50,7 @@ header i {
 }
 
 .my-title:hover {
-  cursor: pointer;
+  cursor: crosshair;
   animation: my-title 1s ease-out forwards;
 }
 
