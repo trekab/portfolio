@@ -2,6 +2,10 @@
   font-family: 'Delius', cursive;
 }
 
+.skills-list {
+  list-style-type: decimal;
+}
+
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
