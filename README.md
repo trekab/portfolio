@@ -110,9 +110,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/TKabareebe) - treasurecalm@gmail.com
+My Twitter/Email - [@TKabareebe](https://twitter.com/TKabareebe) - treasurecalm@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/trekab/portfolio)
+Project Link: [https://github.com/trekab/portfolio](https://github.com/trekab/portfolio)
 
 
 
